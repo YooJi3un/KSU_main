@@ -11236,6 +11236,7 @@ header.masthead .masthead-heading {
 .Cartoon-modal .modal-content h2, .Cartoon-modal .modal-content .h2 {
   font-size: 3rem;
   line-height: 3rem;
+  font-family: "Puradak" !important;
 }
 .Cartoon-modal .modal-content p.item-intro {
   font-style: italic;
@@ -11323,6 +11324,7 @@ header.masthead .masthead-heading {
 .Video-modal .modal-content h2, .Video-modal .modal-content .h2 {
   font-size: 3rem;
   line-height: 3rem;
+  font-family: "Puradak" !important;
 }
 .Video-modal .modal-content p.item-intro {
   font-style: italic;
@@ -11410,6 +11412,7 @@ header.masthead .masthead-heading {
 .Modeling-modal .modal-content h2, .Modeling-modal .modal-content .h2 {
   font-size: 3rem;
   line-height: 3rem;
+  font-family: "Puradak" !important;
 }
 .Modeling-modal .modal-content p.item-intro {
   font-style: italic;
